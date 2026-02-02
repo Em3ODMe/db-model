@@ -10,7 +10,9 @@ export default [
       parser: tsparser,
       ecmaVersion: 2020,
       sourceType: 'module',
-      globals: {},
+      globals: {
+        URL: 'readonly',
+      },
     },
     plugins: {
       '@typescript-eslint': tseslint,
