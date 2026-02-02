@@ -19,7 +19,7 @@ This project provides:
 
 ```typescript
 // 1. Setup
-import { createModelFactory, initProcedure, dropQueryMiddleware, withCursor } from "db-model";
+import { createModelFactory, initProcedure, dropQueryMiddleware, withCursor } from "@em3odme/db-model";
 
 type Context = {
   db: DBDriver,
