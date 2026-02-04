@@ -11,9 +11,9 @@ This project provides:
 
 ## Installation
 
-- npm install db-model
-- yarn add db-model
-- pnpm add db-model
+- npm install @em3odme/db-model
+- yarn add @em3odme/db-model
+- pnpm add @em3odme/db-model
 
 ## Quick Start
 
